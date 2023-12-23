@@ -1,4 +1,23 @@
 # Application of SwinV2-T on the Pneumonia Dataset
+<table>
+  <tr>
+    <td align="center"><strong>Normal</strong></td>
+    <td align="center"><strong>Pneumonia</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/oscarabreu/Pneumonia-SwinV2T/assets/99779654/c95a63f5-2705-41cc-b383-2ca2a6ede80d" width="48%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/oscarabreu/Pneumonia-SwinV2T/assets/99779654/2f8b9a58-2c07-4936-83bd-e3a40c504e4a" width="48%">
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src= "https://github.com/oscarabreu/Pneumonia-SwinV2T/assets/99779654/c573471e-9c50-45ca-b2a7-d17f244dabdb">
+</div>
+
 
 ## Parameters
 - Model Configuration:
