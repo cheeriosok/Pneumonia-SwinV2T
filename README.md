@@ -25,7 +25,7 @@
   - Depths: [2, 2, 6, 2]
   - Number of Heads: [2, 4, 8, 16]
   - Window Size: 8
-  - Absolute Position Encoding: False
+  - Absolute Position Encoding: True
   - Patch Normalization: True
   - Number of Classes: 2
   - Drop Path Rate: 0.5
