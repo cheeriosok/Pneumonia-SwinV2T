@@ -14,10 +14,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src= "https://github.com/oscarabreu/Pneumonia-SwinV2T/assets/99779654/c573471e-9c50-45ca-b2a7-d17f244dabdb">
-</div>
-
 
 ## Parameters
 - Model Configuration:
